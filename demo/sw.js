@@ -1,7 +1,6 @@
 // Files to cache
 var cacheName = 'demoPWA';
 var appShellFiles = [
-  '/demo',
   '/demo/index.html',
   '/demo/app.js'
 ];
