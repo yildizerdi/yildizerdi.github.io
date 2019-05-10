@@ -30,7 +30,7 @@
         }
     ],
     "start_url": "/demo/index.html",
-    "orientation": "portrait",
+    "orientation": "landspace",
     "display": "fullscreen",
     "theme_color": "#B12A34",
     "background_color": "#B12A34"
